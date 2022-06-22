@@ -1,0 +1,14 @@
+{
+  "user": {
+    "email": "test1@example.com",
+    "password": "secret1234",
+    "password_confirmation": "secret1234"
+  },
+  "data": {
+    "access_token": "SFMyNTY.NDg4NDg5NGQtY2FmYy00MzBkLThlZWYtYTNiY2E5YmZhY2Y4.R9YwrQ8kFDrQ4cuJG95c-1hwlksuvTGH6DZR7d-et34",
+    "email": "test1@example.com",
+    "id": 17,
+    "renewal_token": "SFMyNTY.YzQ3YWZkODgtYTJjNS00YTVlLTkyYjAtM2Y1M2I1Mzg2Njc2.pgYmvVp0eavCT3GyzPr4ZKLM8fznHgZWwtg3It5LNEs",
+    "type": "customer"
+  }
+}
